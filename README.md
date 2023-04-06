@@ -1,40 +1,38 @@
-Single level - Candy Crush
-A clone of the popular game Candy Crush, built with JavaScript, HTML, and CSS.
+# Candy_crush_project
 
-Getting Started:
+### A clone of the popular game Candy Crush, built with JavaScript, HTML, and CSS.
+---
+
+## Getting Started :-
+
 To get started with the app, you can either clone the repository or download the source code. Once you have the source code, you can open the index.html file in your preferred browser to start using the app.
 
-Usage:
+## Usage :-
 The game is played by clicking on groups of matching candies to clear them from the board.
 
-Controls:
+## Controls:-
+
 Click on a candy to select it
 Click on an adjacent candy to swap them
-Match 3 or more candies to clear them from the board
-Technologies Used
-This project was built using the following technologies:
+Match 3 or more candies to clear them from the board.
 
-JavaScript
-HTML
-CSS
-Features
+## Technologies Used :-
+- JavaScript
+- HTML
+- CSS
 
-The game includes the following features:
+## Features :-
+- Single level
+- Score tracking
+- Lives system
+- High score leaderboard
 
-Single level
-Score tracking
-Lives system
-High score leaderboard
-
-Screenshots
-Gameplay Screenshot
+## Screenshots :-
+### Gameplay Screenshot
+![image](https://user-images.githubusercontent.com/126712293/230462673-a1cf5859-72e7-40b7-b27f-fabefd94873c.png)
 
 
 
 
-![Screenshot (299)](https://user-images.githubusercontent.com/124812926/230157983-7ed0972a-7889-4ddd-8512-176e3f614c2d.png)
-
-Contributions
-
-Contributions are welcome! 
-If you'd like to contribute, please fork the repository and submit a pull request.
+## Contributions :-
+Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
